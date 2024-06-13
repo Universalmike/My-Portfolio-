@@ -1,0 +1,1 @@
+Welcome to my portfolio repository! This repository contains an overview of all my projects, showcasing the skills and technologies I have learned and applied. Each project is organized in its own folder with detailed descriptions, code, and documentation# My-Portfolio-
